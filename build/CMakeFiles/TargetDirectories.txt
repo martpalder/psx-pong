@@ -1,0 +1,4 @@
+D:/Users/martin/PSn00bSDK_Projects/pong/build/CMakeFiles/template.dir
+D:/Users/martin/PSn00bSDK_Projects/pong/build/CMakeFiles/iso.dir
+D:/Users/martin/PSn00bSDK_Projects/pong/build/CMakeFiles/edit_cache.dir
+D:/Users/martin/PSn00bSDK_Projects/pong/build/CMakeFiles/rebuild_cache.dir

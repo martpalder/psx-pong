@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/Users/martin/PSn00bSDK_Projects/pong/build",
+  "command": "C:\\PSn00bSDK\\bin\\mipsel-none-elf-gcc.exe -DPSN00BSDK=1 -IC:/PSn00bSDK/lib/libpsn00b/cmake/../../../include/libpsn00b -g -g -Wa,--strip-local-absolute -ffreestanding -fno-builtin -nostdlib -fdata-sections -ffunction-sections -fsigned-char -fno-strict-overflow -fdiagnostics-color=always -msoft-float -march=r3000 -mtune=r3000 -mabi=32 -mno-mt -mno-llsc -Og -mdivide-breaks -G8 -fno-pic -mno-abicalls -mgpopt -mno-extern-sdata -o CMakeFiles\\template.dir\\src\\main.c.obj -c D:\\Users\\martin\\PSn00bSDK_Projects\\pong\\src\\main.c",
+  "file": "D:\\Users\\martin\\PSn00bSDK_Projects\\pong\\src\\main.c",
+  "output": "CMakeFiles\\template.dir\\src\\main.c.obj"
+},
+{
+  "directory": "D:/Users/martin/PSn00bSDK_Projects/pong/build",
+  "command": "C:\\PSn00bSDK\\bin\\mipsel-none-elf-gcc.exe -DPSN00BSDK=1 -IC:/PSn00bSDK/lib/libpsn00b/cmake/../../../include/libpsn00b -g -g -Wa,--strip-local-absolute -ffreestanding -fno-builtin -nostdlib -fdata-sections -ffunction-sections -fsigned-char -fno-strict-overflow -fdiagnostics-color=always -msoft-float -march=r3000 -mtune=r3000 -mabi=32 -mno-mt -mno-llsc -Og -mdivide-breaks -G8 -fno-pic -mno-abicalls -mgpopt -mno-extern-sdata -o CMakeFiles\\template.dir\\src\\input.c.obj -c D:\\Users\\martin\\PSn00bSDK_Projects\\pong\\src\\input.c",
+  "file": "D:\\Users\\martin\\PSn00bSDK_Projects\\pong\\src\\input.c",
+  "output": "CMakeFiles\\template.dir\\src\\input.c.obj"
+},
+{
+  "directory": "D:/Users/martin/PSn00bSDK_Projects/pong/build",
+  "command": "C:\\PSn00bSDK\\bin\\mipsel-none-elf-gcc.exe -DPSN00BSDK=1 -IC:/PSn00bSDK/lib/libpsn00b/cmake/../../../include/libpsn00b -g -g -Wa,--strip-local-absolute -ffreestanding -fno-builtin -nostdlib -fdata-sections -ffunction-sections -fsigned-char -fno-strict-overflow -fdiagnostics-color=always -msoft-float -march=r3000 -mtune=r3000 -mabi=32 -mno-mt -mno-llsc -Og -mdivide-breaks -G8 -fno-pic -mno-abicalls -mgpopt -mno-extern-sdata -o CMakeFiles\\template.dir\\src\\graph.c.obj -c D:\\Users\\martin\\PSn00bSDK_Projects\\pong\\src\\graph.c",
+  "file": "D:\\Users\\martin\\PSn00bSDK_Projects\\pong\\src\\graph.c",
+  "output": "CMakeFiles\\template.dir\\src\\graph.c.obj"
+}
+]
